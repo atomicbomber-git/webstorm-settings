@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/react-native-community/cli" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/amaurymartiny/shoot-i-smoke.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/experiments" />
+    <option name="cloneParentDir" value="$USER_HOME$/new-experiments" />
   </component>
 </application>
