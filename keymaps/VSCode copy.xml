@@ -8,4 +8,7 @@
   <action id="Runner.CloseOtherViews">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+  </action>
 </keymap>
